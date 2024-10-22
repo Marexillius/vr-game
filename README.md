@@ -17,10 +17,3 @@ carte blah
 
 ## Schéma d'interactivité
 when you blah
-
-## Tâches
-| Tâches   | Assets  |
-| -------- | ------- |
-| task1    | asset1  |
-| task2    | asset2  |
-| task3    | asset3  |

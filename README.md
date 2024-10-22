@@ -1,16 +1,10 @@
-# vr-game
-
-prepare for trouble
-and make it double
-
-to protect the world from devastation
-to unite all people within our nation
+# Rakket à la raquette
 
 ## Résumé
-blah
+Rakket dois survivre l'attaque d'extraterrestres grâce à uune raquette de tenis magique magique
 
 ## Proposition
-blah blah
+L'utilisateur prend le rôle de Rakket, un astronaute qui doit défendre sa station spatiale contre des extraterrestre, les Mortobilis/Ludobilis. Rakket prends la raquette de tennis magique d'un des extraterrestres qui à le pouvoir de créer un balle de tennis qui peut blesser les créatures. Il décide de les suivre sur leurs planète pour battre leurs chefs et les mettre hors d'état de nuire.
 
 ## Moodboard Visuel
 **blah**
